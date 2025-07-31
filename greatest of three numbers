@@ -1,0 +1,11 @@
+GREASTEST OF THREE NUMBERS.txt
+GREATEST OF THREE NUMBERS
+Algorithm
+Step 1 : start the execution
+Step 2 : Read the value a,b,c
+Step 3 : if (a>b) and (a>c) then
+Step 4 : print a is greatest value
+Step 5 : else if (b>a) and (b>c) then
+Step 6 : print b is greatest value
+Step 7 : else if (c>a) and (c>b) then
+Step 8 : print c is greastest value
